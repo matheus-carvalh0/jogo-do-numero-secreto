@@ -66,3 +66,8 @@ Continue tentando até adivinhar o número correto!
 
 Ao acertar, uma mensagem de parabéns será exibida e você poderá iniciar um novo jogo.
 
+
+*Você pode jogar o "Jogo do Número Secreto" diretamente no seu navegador, acessando:*
+
+https://jogonumerosecreto-indol-ten.vercel.app/
+
